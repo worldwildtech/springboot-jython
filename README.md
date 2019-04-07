@@ -5,7 +5,7 @@ A simple Java Spring Boot application with Jython integration.
 ## Installation
 
 ```
-git clone git@github.com:amemifra/Spring-Jython.git
+git clone git@github.com:worldwildtech/springboot-jython.git
 ```
 Your system must have install
 * Java
